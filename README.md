@@ -1,2 +1,5 @@
 # logic
-A presentation of predicate caclulus logic systems suitable for basic logic processing.
+A presentation of predicate caclulus logical systems in Go, suitable for basic logic processing.
+
+
+      This project is in early development.
